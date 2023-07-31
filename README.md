@@ -19,6 +19,9 @@ If your Lambda function needs to access AWS services like S3 or DynamoDB that ar
 In hybrid architectures where you have a mix of on-premises and cloud resources, using a VPC with NAT Gateway for your Lambda functions can facilitate secure communication between the two environments.
 
 
+<img width="567" alt="Screenshot 2023-07-31 at 1 16 33 PM" src="https://github.com/RuchiDhal/aws-vpc-lambda/assets/127096954/68d4765d-8734-4c2a-9767-e19e852e9a7b">
+
+
 
 
 
