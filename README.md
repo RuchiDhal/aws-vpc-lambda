@@ -23,5 +23,5 @@ In hybrid architectures where you have a mix of on-premises and cloud resources,
 
 
 
-Regenerate
+
 
