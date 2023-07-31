@@ -1,2 +1,2 @@
 # aws-vpc-lambda
-Accessing internet from lambda from VPC
+Accessing internet from lambda in a VPC
